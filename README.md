@@ -14,5 +14,3 @@ Criar um sistema de votação para o grêmio estudantil, garantindo que cada alu
 - 📊 **Registro dos Votos**: Garante que cada aluno vote apenas uma vez.
 - 📈 **Apuração dos Resultados**: Contagem e exibição dos votos no final da eleição.
 
-## 📂 Estrutura do Projeto
-
